@@ -1,0 +1,16 @@
+This article is super useful.	1
+I dont like this article.	0
+The author is rude.	0
+This article is well-researched and informative.	1
+I found this article to be confusing and poorly written.	0
+The author presents a unique perspective in this article.	1
+I strongly disagree with the author's opinions in this article.	0
+This article is a must-read for anyone interested in the topic.	1
+The author's bias is evident throughout this article.	0
+I appreciate the author's thorough analysis in this article.	1
+This article is full of inaccuracies and misinformation.	0
+The author fails to address important points in this article.	0
+I found this article to be engaging and thought-provoking.	1
+The author's writing style in this article is dry and unappealing.	0
+This article is a great resource for anyone looking to learn about the topic.	1
+The author's tone in this article is condescending and off-putting.	0
