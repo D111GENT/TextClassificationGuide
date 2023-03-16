@@ -1,5 +1,5 @@
-# Python Text Classification: A Practical Guide for Beginners
+# Step-by-Step BOW Text Classification: A Beginner's Guide to Python Text Analysis
 
-Follow along with "Python Text Classification: A Practical Guide for Beginners" written by D111GENT on Medium
+Follow along with my Medium guide ["Step-by-Step BOW Text Classification: A Beginner's Guide to Python Text Analysis"](https://medium.com/@d111gent/step-by-step-bow-text-classification-a-beginners-guide-to-python-text-analysis-813a91592056)
 
-Link to article: []()
+Note: Check the branches. There is starter code and complete code.
